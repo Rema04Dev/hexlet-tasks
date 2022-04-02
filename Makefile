@@ -10,7 +10,10 @@ lint:
 test:
 	NODE_OPTIONS=--experimental-vm-modules npx jest
 
+test-coverage:
+	NODE_OPTIONS=--experimental-vm-modules npx jest --coverage
+
 build:
 	# npx eslint --fix .
-	NODE_OPTIONS=--experimental-vm-modules npx jest
 	npm publish --dry-run
+	NODE_OPTIONS=--experimental-vm-modules npx jest --coverage
