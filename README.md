@@ -28,3 +28,4 @@
 4. Функции
    - [Одинаковая четность](functions/sameParityFilter.js)
    - [Поиск ближайшего соседа](functions/findIndexOfNearest.js)
+   - [Счётчик одногодок](functions/getMenCountByYear.js)
