@@ -1,6 +1,6 @@
 ### Hexlet-tasks
 
-[![Node CI](https://github.com/Rema04Dev/hexlet-tasks/workflows/NodeCI/badge.svg)](https://github.com/Rema04Dev/hexlet-tasks/actions)
+[![Node CI](https://github.com/Rema04Dev/hexlet-tasks/workflows/NodeCI/badge.svg)](https://github.com/Rema04Dev/hexlet-tasks/actions/workflows/check.yml)
 
 ##### Решение испытаний
 
