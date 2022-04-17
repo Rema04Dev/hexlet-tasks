@@ -19,6 +19,7 @@
    - [Представление массива в виде объекта](objects/fromPairs.js)
    - [Преобразование DNA в RNA](objects/dnaToRna.js)
    - [Сборщик строки запроса](objects/buildQueryString.js)
+   - [Вычислитель различий](objects/genDiff.js)
 
 3. Массивы
    - [Длина последнего слова](arrays/getLastWordLength.js)
