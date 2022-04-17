@@ -7,10 +7,7 @@ const isPerfect = (number) => {
       dividers.push(i);
     }
   }
-  return dividers.reduce((acc, int) => {
-    return acc += int;
-  }, 0)
-  
+  return dividers.reduce((acc, int) => acc += int, 0) === number;
 };
 
 export default isPerfect;
