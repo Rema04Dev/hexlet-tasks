@@ -1,2 +1,4 @@
 node_modules
 coverage
+objects/findWhere.js
+__tests__/findWhere.test.js
