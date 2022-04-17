@@ -1,4 +1,4 @@
-import getLastWordLength from '../arrays/getLastWordLength.js'
+import getLastWordLength from '../arrays/getLastWordLength.js';
 
 test('length of last word', () => {
   expect(getLastWordLength('')).toBe(0);
