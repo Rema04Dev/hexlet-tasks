@@ -1,6 +1,8 @@
 ### Hexlet-tasks
 
-[![Node CI](https://github.com/Rema04Dev/hexlet-tasks/workflows/NodeCI/badge.svg)](https://github.com/Rema04Dev/hexlet-tasks/actions/workflows/check.yml)
+[![Linter Status](https://github.com/Rema04Dev/hexlet-tasks/actions/workflows/check.yml/badge.svg)](https://github.com/Rema04Dev/hexlet-tasks/actions/workflows/check.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/Rema04Dev/hexlet-tasks)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/test_coverage)](https://codeclimate.com/github/Rema04Dev/hexlet-tasks/test_coverage)
 
 ##### Решение испытаний
 

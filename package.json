@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest --bail"
+    "test": "npx jest --bail",
+    "test-coverage": "jest --collect-coverage"
   },
   "repository": {
     "type": "git",
