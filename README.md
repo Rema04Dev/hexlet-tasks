@@ -22,4 +22,8 @@
    - [Вычислитель различий](objects/genDiff.js)
 
 3. Массивы
+
    - [Длина последнего слова](arrays/getLastWordLength.js)
+
+4. Функции
+   - [Одинаковая четность](functions/sameParityFilter.js)
