@@ -30,3 +30,7 @@
    - [Поиск ближайшего соседа](functions/findIndexOfNearest.js)
    - [Счётчик одногодок](functions/getMenCountByYear.js)
    - [Конвертер цветов](functions/color.js)
+
+##### Функциональное программирование
+
+- [Guard Expression](functional-programming/isPalindrome.js)
