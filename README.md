@@ -34,3 +34,4 @@
 ##### Функциональное программирование
 
 - [Guard Expression](functional-programming/isPalindrome.js)
+- [Параметры по умолчанию](functional-programming/substr.js)
