@@ -35,3 +35,5 @@
 
 - [Guard Expression](functional-programming/isPalindrome.js)
 - [Параметры по умолчанию](functional-programming/substr.js)
+- [Выполнение функций](functional-programming/buildHtml.js)
+- [Объекты первого класса](functional-programming/apply.js)
