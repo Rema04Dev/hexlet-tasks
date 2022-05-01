@@ -26,6 +26,7 @@
     "jest": "^27.5.1"
   },
   "dependencies": {
+    "js-beautify": "^1.14.3",
     "lodash": "^4.17.21"
   }
 }
